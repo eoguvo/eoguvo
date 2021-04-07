@@ -1,12 +1,12 @@
 ![hey there, i am gustavo](./Images/Header.png)
-# Currently, I am a web development intern at Promenant Innovation Labs
+# Currently, I am a Full Stack developer
 ---
 - 🔭 I’m currently working with Next.JS & Node.JS
 -  🤝 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Learn more about backend development, help more peoples e survive this crazy virus!
 ---
 <center  >
-    <img align="center" src="https://i.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" alt="Resume" />
+    <img height="120" align="center" src="https://i.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" alt="Resume" />
 </center >
 
 ---
@@ -41,10 +41,10 @@
             <img src="./Images/Icons/Frontend/React.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/nextj.png" 
+            <img src="https://cdn.svgporn.com/logos/nextjs.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Frontend/Styled-components.png" 
+            <img src="https://styled-components.com/icon.png" 
             width="32"
             >
             <img src="./Images/Icons/Frontend/Figma.svg" 
@@ -63,7 +63,7 @@
             <img src="./Images/Icons/Git.svg" 
             width="32"
             />
-            <img src="./Images/Icons/Backend/Mocha.png" 
+            <img src="https://cdn.svgporn.com/logos/mocha.svg" 
             width="32"
             />
         </td>
@@ -87,6 +87,6 @@
 <center>
     <h1>Github Update <img src="./Images/chart.gif" width="24"> </h1>
     <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-br&theme=radical&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical">
 </center>
