@@ -86,7 +86,6 @@
 
 <center>
     <h1>Github Update <img src="./Images/chart.gif" width="24"> </h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-br&theme=radical&show_icons=true">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=radical">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Henrique-br&theme=radical&show_icons=true">
+    <img awidth="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
 </center>
